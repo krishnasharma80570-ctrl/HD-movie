@@ -1,0 +1,6 @@
+{
+  "name": "HD Movies",
+  "description": "Stream HD movies & TV series with native app interface, built-in ad blocker, and watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
