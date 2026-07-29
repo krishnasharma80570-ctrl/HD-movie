@@ -49,9 +49,7 @@ android {
     debug 
   compileOptions {
     sourceCompatibility = JavaVersion.VERSION_11
-    targetCompatibility = JavaVersion.VERSION_11
-  }
-  buildFeatures {
+    targetCompatibility = JavaVersion.VERSION_1{
     compose = true
     buildConfig = true
   }
